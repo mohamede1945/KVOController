@@ -7,7 +7,7 @@
  of patent rights can be found in the PATENTS file in the same directory.
  */
 
-#import "NSObject+FBKVOController.h"
+#import "include/NSObject+FBKVOController.h"
 
 #import <objc/message.h>
 
